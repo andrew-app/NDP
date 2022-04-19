@@ -1,7 +1,6 @@
 import math
 import numpy as np
 from numpy.random import default_rng
-import random
 import matplotlib.pyplot as plt
 from scipy.interpolate import make_interp_spline, BSpline
 
